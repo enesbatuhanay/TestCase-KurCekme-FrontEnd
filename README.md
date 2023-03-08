@@ -1,7 +1,6 @@
 # TestCase-KurCekme-FrontEnd
-Merkez bankası kuru çekme projesi için yapılan front kısım çalıştırmak için 
-test-case-frontend
-dosyasının içinden sırasıyla
+Merkez bankası kuru çekme projesi için yapılan front projesi Vue 3 ve javascript kullanılarak yapıldı.
+Projeyi çalıştırmak için  test-case-frontend dosyasının içinden sırasıyla
 
 'npm install' ve
 'npm run dev'
