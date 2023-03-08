@@ -1,8 +1,12 @@
 # TestCase-KurCekme-FrontEnd
-Merkez bankası kuru çekme projesi için yapılan front kısım çalıştırmak için
+Merkez bankası kuru çekme projesi için yapılan front kısım çalıştırmak için 
+test-case-frontend
+dosyasının içinden sırasıyla
 
-npm run dev 
-komutunu kullanın!
+'npm install' ve
+'npm run dev'
+
+komutlarını kullanın!
 
 İçerisinde kullandığım kütüphaneler
 
