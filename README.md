@@ -12,6 +12,8 @@ komutlarını kullanın!
 
 VueAxios,VueDatePicker,Vue3EasyDataTable,Vue-toastification
 
+not:test-case-frontend klasörü içerisinde komutları çalıştırmayı unutmayın.
+
 
 
 
