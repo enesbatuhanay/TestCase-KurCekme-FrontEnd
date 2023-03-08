@@ -13,6 +13,7 @@ const app = createApp(App);
 app.use(VueAxios, axios)
 app.component('VueDatePicker', VueDatePicker);
 app.component('EasyDataTable', Vue3EasyDataTable);
-app.mount("#app");
 app.use(Toast);
+app.mount("#app");
+
 
